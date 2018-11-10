@@ -56,3 +56,4 @@ c_temp=float(input())
 f_temp=((9/5)*c_temp)+32
 print("섭씨온도 : ", c_temp)
 print("화씨온도 : ", f_temp)
+
