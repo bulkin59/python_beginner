@@ -1,7 +1,7 @@
 """
 데이터 타입을 변환해보자.
 data conversion
-""""
+"""
 
 # int 정수형으로 바꿔보자 10.XX -> 10
 a = 10.3
@@ -37,7 +37,6 @@ type(b)
 """
 데이터 타입 변화시키는 것을 응용해보자1
 """
-
 
 # input -> string
 print("Enter your name!", "Hello People~")
